@@ -1,5 +1,7 @@
 # Deploying Applications with Ansible
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/deploying-applications-with-ansible.svg)](https://www.guardrails.io)
+
 *Automate your infrastructure in your data center and in the cloud*
 
 [Slides are available here!](https://docs.google.com/presentation/d/1nqJtVU3tnK_THM2NG39-77dAsbWei67mFxRmvEL5sDk/edit#slide=id.g1f4c6c3756_0_145) Or check out slides.pdf in this repository for a copy as of 5/30.
